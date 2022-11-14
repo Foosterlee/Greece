@@ -15,7 +15,7 @@ body{
     color: whitesmoke;
     padding: 20px;
     grid-area: header;
-    background-image: url(/Website/Fotos/griekenland-vakantie-aanbieders.jpeg);
+    background-image: url(Fotos/griekenland-vakantie-aanbieders.jpeg);
     background-position:80%;
     width: 96,5%;
     height: 100px;
